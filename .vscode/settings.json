@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "stdbool.h": "c",
+        "iterator": "c",
+        "__locale": "c",
+        "algorithm": "c",
+        "random": "c",
+        "string.h": "c",
+        "__bit_reference": "c",
+        "bitset": "c",
+        "chrono": "c",
+        "unordered_map": "c"
+    }
+}

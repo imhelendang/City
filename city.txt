@@ -1,0 +1,60 @@
+Newport Coast
+-117.9290
+33.6189
+Laguna Woods
+-117.7253
+33.6103
+Irvine
+-117.8231
+33.6695
+Mission Viejo
+-117.6711
+33.6002
+Dana Point
+-117.6981
+33.4670
+Tustin Foothills
+-117.7931
+33.7644
+Costa Mesa
+-117.91867
+33.6411
+Laguna Niguel
+-117.7075
+33.5225
+Foothill Rancho
+-117.6664
+33.6832
+Fountain Valley
+-117.9537
+33.7092
+Laguna Hills
+-117.7100
+33.5940
+Fullerton
+-117.9253
+33.8703
+Huntington Beach
+-117.9992
+33.6603
+Westminster
+-118.0067
+33.7592
+Laguna Beach
+-117.7831
+33.5423
+Santa Ana
+-117.8678
+33.7456
+Orange
+-117.8531
+33.7878
+Tustin
+-117.8262
+33.7459
+Aliso Viejo
+-117.7271
+33.5650
+Trabuco Canyon
+-117.5894
+33.6636
